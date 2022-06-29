@@ -1,4 +1,4 @@
-# novin
+# movieInfo
 
 ## Project setup
 ```
